@@ -56,7 +56,7 @@ export default function About() {
           <motion.div className="menu" animate={{ y: 0, opacity: 1 }} initial={{ y: -10, opacity: 0 }} transition={{ duration: 1.2, delay: 3 }}>
               <div className="menu_inner">
                   <p className="active">Home</p>
-                  <p>Contact Me</p>
+                  <p>Contact</p>
                   <p className="title">joe</p>
 
               </div>
