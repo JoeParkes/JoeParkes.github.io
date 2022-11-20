@@ -147,7 +147,7 @@ $radius-8: 0.8rem;
         p{
             max-width: 400px; 
             margin: auto;
-            font-family: 'Open Sans', sans-serif;
+            font-family: 'basier-circle', sans-serif;
         }
         h1{
             max-width: 900px; 
@@ -244,7 +244,7 @@ $radius-8: 0.8rem;
   border-radius: 0.8rem;
   cursor: pointer;
   display: inline-flex;
-  font-family: Inter,sans-serif;
+  font-family: 'basier-circle', sans-serif;
   font-size: 1.2rem;
   font-weight: 700;
   justify-content: center;
@@ -290,7 +290,7 @@ $radius-8: 0.8rem;
     border-radius: 0.8rem;
     cursor: pointer;
     display: inline-flex;
-    font-family: Inter,sans-serif;
+    font-family: 'basier-circle', sans-serif;
     font-size: 1.2rem;
     font-weight: 700;
     justify-content: center;
@@ -334,7 +334,7 @@ $radius-8: 0.8rem;
 /* GLOBAL STYLES */
 h1 {
     color: $off-white;
-    font-family: 'Hind Siliguri', sans-serif;
+    font-family: 'basier-circle', sans-serif;
     font-weight: 600;
     text-align: center;
 }
@@ -415,6 +415,6 @@ span{
 p.title{
     z-index: 9;
     font-family: "Bambi Bold", sans-serif;
-    background: -webkit-linear-gradient(#20BDFF 0%, #A5FECB 100%);
+    background-image: linear-gradient(to top, #00c6fb 0%, #005bea 100%);
     color: $black;
 }
