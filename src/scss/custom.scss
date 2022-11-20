@@ -152,6 +152,8 @@ $radius-8: 0.8rem;
         h1{
             max-width: 900px; 
             margin: auto;
+            font-weight: 400;
+            font-size: 32px;
         }
 
         
@@ -415,6 +417,6 @@ span{
 p.title{
     z-index: 9;
     font-family: "Bambi Bold", sans-serif;
-    background-image: linear-gradient(to top, #00c6fb 0%, #005bea 100%);
+    background: linear-gradient(-180deg, #000046, #1cb5e0 100%);
     color: $black;
 }
