@@ -23,7 +23,6 @@ import { InstagramEmbed } from 'react-social-media-embed';
 
 import Map from 'react-map-gl';
 import 'mapbox-gl/dist/mapbox-gl.css';
-Map.workerClass = require('worker-loader!mapbox-gl/dist/mapbox-gl-csp-worker').default;
 
 //ICONS 
 import { FaGithub } from 'react-icons/fa';
